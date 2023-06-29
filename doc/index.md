@@ -4,7 +4,8 @@
 ```{toctree}
 :maxdepth: 2
 
-tutorials/index
+life/index
+memory/index
 topics/index
 chaos/index
 about/index
