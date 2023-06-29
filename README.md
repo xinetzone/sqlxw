@@ -1,6 +1,6 @@
 # 笔记模板
 
-![repo size](https://img.shields.io/github/repo-size/xinetzone/xbook.svg)
+![repo size](https://img.shields.io/github/repo-size/xinetzone/sqlxw.svg)
 [![PyPI][pypi-badge]][pypi-link]
 [![GitHub issues][issue-badge]][issue-link]
 [![GitHub forks][fork-badge]][fork-link]
@@ -15,34 +15,34 @@
 
 打造优质的笔记模板。
 
-[pypi-badge]: https://img.shields.io/pypi/v/xbook.svg
-[pypi-link]: https://pypi.org/project/xbook/
-[issue-badge]: https://img.shields.io/github/issues/xinetzone/xbook
-[issue-link]: https://github.com/xinetzone/xbook/issues
-[fork-badge]: https://img.shields.io/github/forks/xinetzone/xbook
-[fork-link]: https://github.com/xinetzone/xbook/network
-[star-badge]: https://img.shields.io/github/stars/xinetzone/xbook
-[star-link]: https://github.com/xinetzone/xbook/stargazers
-[license-badge]: https://img.shields.io/github/license/xinetzone/xbook
-[license-link]: https://github.com/xinetzone/xbook/LICENSE
-[contributor-badge]: https://img.shields.io/github/contributors/xinetzone/xbook
-[contributor-link]: https://github.com/xinetzone/xbook/contributors
-[watcher-badge]: https://img.shields.io/github/watchers/xinetzone/xbook
-[watcher-link]: https://github.com/xinetzone/xbook/watchers
+[pypi-badge]: https://img.shields.io/pypi/v/sqlxw.svg
+[pypi-link]: https://pypi.org/project/sqlxw/
+[issue-badge]: https://img.shields.io/github/issues/xinetzone/sqlxw
+[issue-link]: https://github.com/xinetzone/sqlxw/issues
+[fork-badge]: https://img.shields.io/github/forks/xinetzone/sqlxw
+[fork-link]: https://github.com/xinetzone/sqlxw/network
+[star-badge]: https://img.shields.io/github/stars/xinetzone/sqlxw
+[star-link]: https://github.com/xinetzone/sqlxw/stargazers
+[license-badge]: https://img.shields.io/github/license/xinetzone/sqlxw
+[license-link]: https://github.com/xinetzone/sqlxw/LICENSE
+[contributor-badge]: https://img.shields.io/github/contributors/xinetzone/sqlxw
+[contributor-link]: https://github.com/xinetzone/sqlxw/contributors
+[watcher-badge]: https://img.shields.io/github/watchers/xinetzone/sqlxw
+[watcher-link]: https://github.com/xinetzone/sqlxw/watchers
 [binder-badge]: https://mybinder.org/badge_logo.svg
-[binder-link]: https://mybinder.org/v2/gh/xinetzone/xbook/main
-[install-badge]: https://img.shields.io/pypi/dw/xbook?label=pypi%20installs
-[install-link]: https://pypistats.org/packages/xbook
-[status-badge]: https://readthedocs.org/projects/xbook/badge/?version=latest
-[status-link]: https://xbook.readthedocs.io/zh/latest/?badge=latest
-[download-badge]: https://pepy.tech/badge/xbook
-[download-link]: https://pepy.tech/project/xbook
+[binder-link]: https://mybinder.org/v2/gh/xinetzone/sqlxw/main
+[install-badge]: https://img.shields.io/pypi/dw/sqlxw?label=pypi%20installs
+[install-link]: https://pypistats.org/packages/sqlxw
+[status-badge]: https://readthedocs.org/projects/sqlxw/badge/?version=latest
+[status-link]: https://sqlxw.readthedocs.io/zh/latest/?badge=latest
+[download-badge]: https://pepy.tech/badge/sqlxw
+[download-link]: https://pepy.tech/project/sqlxw
 
 ## PyPI
 
 支持 PyPI：
 
 ```sh
-pip install xbook
+pip install sqlxw
 ```
 
