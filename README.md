@@ -1,4 +1,4 @@
-# 笔记模板
+# 新与勤之恋
 
 ![repo size](https://img.shields.io/github/repo-size/xinetzone/sqlxw.svg)
 [![PyPI][pypi-badge]][pypi-link]
@@ -45,4 +45,3 @@
 ```sh
 pip install sqlxw
 ```
-
