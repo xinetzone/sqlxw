@@ -13,7 +13,7 @@
 [![Documentation Status][status-badge]][status-link]
 [![PyPI - Downloads][install-badge]][install-link]
 
-打造优质的笔记模板。
+恋恋笔记。
 
 [pypi-badge]: https://img.shields.io/pypi/v/sqlxw.svg
 [pypi-link]: https://pypi.org/project/sqlxw/
